@@ -1,0 +1,7 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+ro.vendor.audio.sdk.fluencetype=fluencepro
+ro.telephony.default_network=22,20
