@@ -1,6 +1,6 @@
-# Xiaomi A1 CDMA-gsm support
+# Xiaomi A1 CDMA-gsm support [English](https://github.com/wonderil/Xiaomi-A1-CDMA-gsm-support/blob/master/en.md)
 ###由于一些原因xiaomi a1屏蔽了电信打电话的功能，但是硬件是支持的，现在找回。
-#你必须先进行如下操作，且这些操作不会影响任何功能，且一劳永逸。[这里](http://)
+#你必须先进行如下操作，且这些操作不会影响任何功能，且一劳永逸。[这里](https://github.com/wonderil/Xiaomi-A1-CDMA-gsm-support/blob/master/z.md)
 
 ##使用的代码
 
