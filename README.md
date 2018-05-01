@@ -18,7 +18,8 @@ ro.telephony.default_network=22,20
 ```
 CDMA-gsm support  Enable Camera2 API, Add fix for EIS (Electronic Image Stabilization), Fix bad video sound, ARCore Apps by Arnova8G2, fixes long camera start on Mi A1 without disabling SELinux, Xml pack of different vendors.
 ```
-
+##图片
+![p](https://raw.githubusercontent.com/wonderil/Xiaomi-A1-CDMA-gsm-support/master/image/Screenshot_20180501-212758.png)
 
 
 
