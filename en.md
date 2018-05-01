@@ -1,5 +1,5 @@
 ###For some reason xiaomi a1 shields the telecom call feature, but the hardware is supported and is now retrieved.
-#You must first do the following, and these operations will not affect any function and once and for all.[Here](http://)
+#You must first do the following, and these operations will not affect any function and once and for all.[Here](https://github.com/wonderil/Xiaomi-A1-CDMA-gsm-support/blob/master/z.md)
 
 ##Used code
 
