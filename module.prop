@@ -3,5 +3,5 @@ name=Xiaomi Mi A1 gsm-fixes
 version=v6
 versionCode=6
 author=Peitos
-description=Enable Camera2 API, Add fix for EIS (Electronic Image Stabilization), Fix bad video sound, ARCore Apps by Arnova8G2, fixes long camera start on Mi A1 without disabling SELinux, Xml pack of different vendors.
+description=中国电信卡可以打电话CDMA-gsm support ,Enable Camera2 API, Add fix for EIS (Electronic Image Stabilization), Fix bad video sound, ARCore Apps by Arnova8G2, fixes long camera start on Mi A1 without disabling SELinux, Xml pack of different vendors.
 minMagisk=1500
